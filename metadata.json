@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CosmicLens: NASA APOD Explorer",
+  "description": "A deeply immersive explorer for NASA's Astronomy Picture of the Day, featuring a local caching layer and an AI-powered astronomer assistant using Google Gemini.",
+  "requestFramePermissions": []
+}
